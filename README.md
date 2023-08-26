@@ -81,3 +81,5 @@ df.info()
 ![Screenshot (124)](https://github.com/gowrisankarponnusamy/ODD2023-Datascience-Ex01/assets/119393123/03c8326e-b72f-4c8d-b911-4d0af7cdf240)
 ![Screenshot (125)](https://github.com/gowrisankarponnusamy/ODD2023-Datascience-Ex01/assets/119393123/782a6f39-3d3b-44b0-bf7d-87cb1f4fd255)
 
+## RESULT:
+Thus the given data is read,cleaned and the ceaned data is saved into the file.
